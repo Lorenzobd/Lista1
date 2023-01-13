@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1 group-title="XXX_movies_OLD",#14 / Золотой век Эротики 14
 https://video2.tizam.cc/files/1648670/golden_age_erotica_14.mp4
 #EXTINF:-1 group-title="XXX_movies_OLD",(1970) Хардкор из Дании 118
